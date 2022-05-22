@@ -1,0 +1,520 @@
+B-dishName I-dishName I-dishName E-dishName O O O O
+O O B-name E-name O O O
+O O O O O O
+B-payment E-payment O O O O
+O O B-datetime_date I-datetime_date I-datetime_date I-datetime_date E-datetime_date B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel E-tvchannel O O O B-name I-name E-name O
+O O B-startLoc_city E-startLoc_city O B-endLoc_city E-endLoc_city O O O O
+O B-name I-name E-name O O O O O O O B-receiver I-receiver E-receiver
+O B-name I-name E-name O O O O O B-receiver I-receiver E-receiver
+O B-name I-name I-name E-name
+O O O O B-datetime_date E-datetime_date O O O O O O
+O B-name E-name
+O O B-category E-category
+B-tvchannel I-tvchannel I-tvchannel E-tvchannel B-datetime_time E-datetime_time O O O O O
+O O O S-name O O O O O
+B-content E-content B-target E-target O O O
+O O O O B-keyword E-keyword O O O
+O O O O B-keyword I-keyword I-keyword I-keyword E-keyword O O O O O
+B-dishName I-dishName E-dishName O O O
+O O O O O O B-keyword E-keyword O O O O O O O
+S-character O O O O O
+O O O B-name I-name E-name
+B-datetime_date E-datetime_date O O O
+O O O O O O O O O O
+B-datetime_date E-datetime_date O O O O O O O
+B-dishName I-dishName I-dishName E-dishName O O O O
+B-datetime_date I-datetime_date E-datetime_date O O O O O O O O O O
+O O O O O B-keyword I-keyword I-keyword E-keyword O O O O O O O O O
+O O O O B-name I-name I-name E-name O O O O O
+O O O O O B-startLoc_city E-startLoc_city O B-endLoc_city E-endLoc_city O O O
+O O O B-actor I-actor E-actor O B-category E-category
+O O B-ingredient E-ingredient O O O
+B-startDate_date E-startDate_date B-startLoc_city E-startLoc_city O B-endLoc_city E-endLoc_city O O O
+O O O O O O
+O O B-name E-name
+O O O O B-datetime_date I-datetime_date E-datetime_date O O O O O O
+O O O O O B-startDate_date E-startDate_date B-startLoc_city E-startLoc_city O B-endLoc_city E-endLoc_city O O O O
+O O B-name I-name I-name E-name O O O
+O O O O O O B-datetime_date E-datetime_date O B-category E-category O O
+O B-startLoc_city I-startLoc_city E-startLoc_city O B-endLoc_city E-endLoc_city O O O O
+O O O O S-name B-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content E-content
+O O O O O O S-orderIndex O O O
+O O B-timeDescr E-timeDescr O O B-tag E-tag B-category E-category O
+O O O O O B-word E-word O O O O O O O O
+O O B-startLoc_city E-startLoc_city O B-endLoc_city E-endLoc_city O O O
+B-name I-name I-name I-name I-name E-name
+O O B-startLoc_city E-startLoc_city O B-endLoc_city E-endLoc_city O O O
+B-ingredient E-ingredient O O O O O O O
+B-startLoc_city E-startLoc_city O B-endLoc_city E-endLoc_city O O O
+B-keyword I-keyword I-keyword E-keyword O O O O O O O
+O O O O O O O S-dynasty O O O
+O O O O O O O O O
+B-keyword E-keyword O O O O O O O O O O O O O O O O
+O O O O O B-keyword I-keyword I-keyword E-keyword O O O O O O
+O O O B-province E-province O O O O O O
+B-ingredient E-ingredient O O O O
+O O O B-datetime_date E-datetime_date B-city E-city B-category I-category I-category I-category E-category O O O O
+O O O B-name I-name I-name I-name E-name
+B-ingredient I-ingredient E-ingredient O O O O
+B-name I-name I-name I-name E-name
+O O O O O O O O O
+B-位置 I-位置 E-位置 O O O O O O
+O O O O O O O
+O O O O B-name I-name I-name I-name E-name
+B-datetime_date E-datetime_date O O B-category E-category O O
+O B-keyword I-keyword I-keyword E-keyword O O O O O O O
+O O O O O B-endLoc_poi I-endLoc_poi I-endLoc_poi E-endLoc_poi O O O O O
+B-name I-name I-name E-name O O
+O O O O O O O O O O O
+B-name I-name E-name O O O
+B-datetime_date E-datetime_date O O O O O
+O O O O O O O O
+O O B-name E-name O O O
+B-film I-film I-film I-film E-film O O O O O
+O O B-srcUnit E-srcUnit O S-srcNumber S-destUnit O
+O O O O O O
+O O B-name I-name E-name O
+S-name O O O O O O O
+B-name I-name I-name I-name E-name O O
+O O O O O O O O
+B-location_poi I-location_poi I-location_poi I-location_poi E-location_poi O O
+O O B-album I-album E-album
+B-datetime_time E-datetime_time B-tvchannel I-tvchannel I-tvchannel E-tvchannel O O O B-name I-name I-name E-name
+O O O S-number O O O O B-datetime_date E-datetime_date O O O O
+O O O O O O B-name I-name E-name
+O O O B-artist I-artist E-artist B-artistRole E-artistRole O B-popularity E-popularity B-category E-category
+O O O O O O O O O B-keyword E-keyword O O O O
+B-name I-name I-name I-name I-name E-name B-datetime_date I-datetime_date I-datetime_date E-datetime_date O O O O O O
+O O O O O O O O O O O O O O O O
+O O O B-country E-country B-keyword E-keyword O O O
+B-name I-name I-name E-name
+O O B-song I-song I-song I-song I-song E-song O O O
+O O O O O O O B-name E-name O O O B-content I-content I-content I-content I-content I-content E-content
+O O O B-song E-song O
+O O O O B-name E-name O O O O
+O O O B-province E-province O O
+B-datetime_date E-datetime_date O O O O O O
+O O O O O O O B-song I-song E-song
+O O O B-name E-name O O O O O O
+O O B-attrValue E-attrValue
+O O B-startDate_date E-startDate_date B-startLoc_city E-startLoc_city O B-endLoc_city E-endLoc_city O O O
+B-name I-name I-name E-name O O O O O
+O O O O B-author I-author E-author O O O
+O O O O O O B-category E-category
+B-dishName I-dishName E-dishName O O O O
+O B-name I-name E-name O O O O
+B-name E-name O O O O O O O O
+O O O O B-name I-name E-name
+B-category E-category O O
+O B-startLoc_city E-startLoc_city O B-endLoc_city E-endLoc_city O O O O
+B-attrValue E-attrValue O O B-attr E-attr O O
+O O O B-datetime_date E-datetime_date O B-subfocus I-subfocus I-subfocus E-subfocus
+O O O O B-city E-city O O O O O O O
+O O B-keyword I-keyword I-keyword E-keyword O O O O
+O O O S-dynasty O O O
+O O O O B-category E-category
+O O O O O O O S-wildcardWords O O O
+O O O B-actor I-actor E-actor O B-category E-category
+B-keyword I-keyword I-keyword I-keyword E-keyword O B-queryField I-queryField E-queryField O O O O
+O O O O O B-name I-name E-name O O
+O O O B-tags E-tags
+O O O O B-name I-name I-name E-name
+O O O B-word E-word S-character O O O O
+B-datetime_date I-datetime_date E-datetime_date O O O O O
+O O O O O O B-startLoc_city E-startLoc_city O B-endLoc_city E-endLoc_city O O O
+B-name I-name I-name E-name
+B-content I-content I-content I-content I-content I-content E-content O B-target E-target O O O
+B-startDate_date I-startDate_date I-startDate_date E-startDate_date O B-endLoc_city E-endLoc_city O O O
+B-name I-name I-name E-name O O O O O O
+B-name I-name I-name E-name B-season I-season E-season
+B-year I-year I-year E-year O O O O O B-datetime_date E-datetime_date O O O O O O O O O O
+B-category E-category O O O O O O O O
+O O O O B-word E-word S-character O O O O O O O
+O O O O O O O O O O O B-code I-code I-code E-code B-name I-name I-name I-name I-name I-name I-name I-name I-name I-name E-name
+O O O O B-category E-category O
+S-content B-target E-target O O O
+O O B-province E-province O O O O O
+B-dishName I-dishName I-dishName I-dishName E-dishName O O O
+O O O O O B-word E-word O O O O O O O O
+S-srcNumber S-srcUnit O O O O O B-destUnit E-destUnit O
+B-content E-content O B-target E-target O O O
+O O O O B-name I-name I-name E-name
+O O B-datetime_date E-datetime_date O O O O O
+O O O O B-author E-author O O O O
+B-name I-name I-name I-name E-name O O
+B-datetime_time E-datetime_time O O O O O O B-category I-category E-category O O
+B-name I-name I-name E-name
+O O O O O O O
+O O O O O
+O O O O B-name I-name I-name E-name O O O O O O O
+O O O O O O O O O
+O O O O O B-时间 E-时间 O
+O O O O O B-artist I-artist E-artist O O O B-category E-category O O
+O O B-name E-name O O O
+O O B-location_poi I-location_poi I-location_poi E-location_poi O O O
+O O O O B-year I-year I-year E-year O O O O O B-datetime_date E-datetime_date O O O O O O O O O
+O O O O O O O O O O O O O
+O O B-name I-name E-name O O
+B-startLoc_city E-startLoc_city O B-endLoc_city E-endLoc_city O O O
+O O O O O O O O O O O
+B-province E-province O O O O O O O O
+O O B-name I-name E-name
+O O O O O B-keyword E-keyword O O O
+B-datetime_date I-datetime_date I-datetime_date E-datetime_date O O O O O O O O O O O
+B-utensil E-utensil O O O O O O O O O B-dishName I-dishName I-dishName E-dishName
+O O B-keyword E-keyword O O O O O
+B-startLoc_city E-startLoc_city O B-endLoc_city E-endLoc_city O O O
+O O B-name I-name I-name E-name
+S-srcNumber S-srcUnit O O O O O B-destUnit E-destUnit
+O O O O B-name I-name I-name I-name I-name E-name O O O O O
+O B-name I-name E-name O O O
+O O O O O B-word E-word S-character O O O O O O O
+O O O O O B-category E-category O O O O O O O O O O O
+B-city E-city O
+O B-name I-name I-name E-name B-yesterday E-yesterday O O O O
+O B-artist I-artist E-artist O B-song E-song O
+O O O O O O B-keyword I-keyword I-keyword E-keyword
+O B-dishName I-dishName I-dishName E-dishName O O O O O O O
+O O O B-keyword I-keyword I-keyword I-keyword E-keyword O B-category E-category
+O O B-song I-song I-song E-song O O O
+O O B-ingredient E-ingredient O O O O
+B-city E-city O O O O O O O
+B-city E-city O B-province E-province O O O O O O
+B-tvchannel I-tvchannel E-tvchannel O B-name I-name E-name O O O O O O O O
+B-keyword I-keyword I-keyword E-keyword O O O O O
+O O O O B-name I-name E-name
+O O O B-author I-author E-author O O O B-name E-name
+B-film I-film I-film I-film E-film O B-theatre I-theatre I-theatre E-theatre O O O O O O O
+O O O O O O O O
+O O B-name I-name I-name E-name
+B-dishName I-dishName E-dishName O O O O
+O O O O B-name E-name O O O O O
+O O O O O O O O O
+B-startLoc_city E-startLoc_city O B-endLoc_city E-endLoc_city O O O O
+B-attrValue E-attrValue O O B-attr I-attr I-attr E-attr
+O O B-keyword E-keyword O O O O O
+O O O O B-keyword E-keyword O O O O O
+O O B-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date E-datetime_date O O O O O
+O O O O S-character O O O O O O
+O O O O O O O O B-keyword I-keyword I-keyword E-keyword O O O O
+B-content I-content I-content I-content E-content O B-target E-target O O O
+O O O O O B-keyword I-keyword E-keyword O O O O O
+O O O B-location_city I-location_city I-location_city E-location_city O O O O
+O O O O O O B-name E-name
+B-startDate_date E-startDate_date O B-endLoc_city E-endLoc_city O O O
+B-dishName I-dishName E-dishName O O O O
+O O O O O O B-datetime_date E-datetime_date O O O O O O O O
+O O B-keyword E-keyword O O O O O O O O O O
+O O O O O O
+O O O O O B-code I-code I-code I-code I-code E-code O O O B-name I-name I-name E-name O O O O O
+O O B-name E-name O O
+O O O O B-datetime_date E-datetime_date O O O O O O O
+O O O O B-ingredient E-ingredient O O O O
+O O O O O O B-datetime_date E-datetime_date O O
+O O O O B-name I-name I-name E-name O O O
+O O O O B-dishName E-dishName O O O
+B-province E-province O O O O O O O O B-city E-city
+B-category E-category O O O O O O O O
+B-tvchannel I-tvchannel I-tvchannel E-tvchannel O B-name I-name I-name E-name O O O O O B-datetime_date I-datetime_date I-datetime_date E-datetime_date O O
+O B-name E-name O O O
+O O O O O B-year I-year I-year E-year O O O O O B-datetime_date E-datetime_date O O O O O O O
+O B-endLoc_city E-endLoc_city O O O
+O O O O B-name E-name O B-content I-content I-content I-content E-content
+O O O O
+O O B-attrValue I-attrValue E-attrValue
+O O O O B-name I-name E-name B-content I-content I-content I-content I-content I-content I-content E-content
+O O O B-name E-name O
+O O B-keyword E-keyword O O O
+B-dishName I-dishName E-dishName O
+O O O O B-name I-name I-name I-name E-name
+B-name E-name
+O O O O O B-year I-year I-year E-year O O O O O B-datetime_date E-datetime_date O O O O O
+O O O O O B-name I-name I-name E-name O O O O O
+O O O O O O O
+O O B-name I-name I-name E-name O O O
+B-datetime_date E-datetime_date O O O O O O
+B-dishName I-dishName I-dishName I-dishName E-dishName O O O O
+O O O O O B-startLoc_city E-startLoc_city O B-endLoc_city E-endLoc_city O O O
+O O O O O O O O
+O B-name E-name O O O
+B-ingredient E-ingredient O O O O
+O O O O S-wildcardWords O
+B-name E-name O O O O O O O
+B-ingredient E-ingredient O O O
+O O B-year I-year I-year E-year O O O O O B-datetime_date E-datetime_date O O O O O O O O O O O
+O O O O O O
+O O O B-artist I-artist E-artist O B-song I-song E-song
+B-keyword I-keyword E-keyword
+O O O O B-keyword E-keyword
+B-name I-name E-name O O O
+O O O B-actor I-actor E-actor O B-name I-name I-name I-name E-name
+O O S-keyword O O O O O O O O O O O
+B-datetime_time I-datetime_time I-datetime_time E-datetime_time B-attrValue E-attrValue O O
+S-character O O O O O
+O B-name E-name O O O O O B-receiver E-receiver
+B-startDate_date I-startDate_date I-startDate_date E-startDate_date O B-endLoc_city E-endLoc_city O O O
+S-srcNumber S-srcUnit O O O S-destUnit
+O O O O O O O B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword E-keyword
+O O O O
+O O S-srcUnit O O O O O S-srcNumber S-destUnit
+O O O O S-orderIndex O O O O
+O O O O O O B-datetime_date E-datetime_date O O O O O O
+B-name I-name I-name E-name O O O O
+O O B-位置 E-位置 O S-灯种
+O B-name I-name E-name O O O O O B-receiver E-receiver
+B-content I-content I-content I-content E-content O B-target E-target O O O
+O O O O O O O B-name I-name I-name I-name E-name
+O O B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword E-keyword O O O O O
+O O O B-tvchannel I-tvchannel I-tvchannel E-tvchannel B-name I-name I-name I-name E-name
+O O O O O O O
+B-keyword I-keyword E-keyword O O O O O
+B-dishName I-dishName I-dishName E-dishName O O O O
+O O O O B-name I-name I-name I-name I-name I-name I-name I-name I-name E-name
+O O O O B-city E-city B-category E-category B-datetime_date E-datetime_date O O O O
+O O O O O O B-film I-film I-film I-film E-film O O O O O O
+O O O B-dishName E-dishName O
+B-content I-content I-content E-content O B-target E-target O O O
+O O B-位置 E-位置 O B-灯种 I-灯种 E-灯种
+B-dishName E-dishName O O O O
+B-location_city E-location_city O O O
+B-name I-name E-name
+B-name I-name E-name O O
+O O O B-actor I-actor E-actor B-keyword I-keyword I-keyword E-keyword O O
+B-datetime_date E-datetime_date B-city E-city O B-subfocus I-subfocus I-subfocus E-subfocus O O O
+B-tvchannel I-tvchannel I-tvchannel E-tvchannel B-datetime_time E-datetime_time O O O B-category I-category E-category O
+B-dishName I-dishName I-dishName E-dishName O O O O
+O O O B-datetime_date I-datetime_date I-datetime_date E-datetime_date O O O O O O O O O
+O O O O O B-word E-word S-character O O O O O O
+O O B-name E-name O O
+O B-Src E-Src O B-Dest E-Dest O O O O
+O O O O O O O O O O
+O O O O O O O O O O O
+O O B-author E-author O O B-name I-name E-name O
+O O O O O O B-name E-name
+O O O O O O
+O O O O O O O B-word E-word S-character O O O O O
+O O O O B-name I-name E-name
+O O O O O O O O B-keyword I-keyword I-keyword E-keyword O O O O O O
+O O B-srcUnit E-srcUnit O O O O O S-srcNumber S-destUnit O
+O O O B-album I-album E-album
+O O B-name I-name I-name I-name I-name I-name E-name
+O O O O O O
+B-province E-province O O O O O O O O
+O O O O O O S-wildcardWords O O O O O
+O O O O O B-name I-name E-name
+O O O O O O O
+B-name E-name
+B-province E-province O O O O O O O B-city E-city O
+O O O O O S-srcNumber B-destUnit E-destUnit
+O O O O O O O O O O
+O O O B-category E-category O O O
+B-位置 I-位置 E-位置 O S-灯种 O O O O O O
+B-city E-city O O O O O B-province E-province O
+B-name E-name O O O O O O O O O O O
+B-dishName I-dishName E-dishName O O O
+B-city E-city O O O O O
+O O O B-subfocus E-subfocus
+O O B-name I-name E-name O O O O O
+O O S-keyword O O O O O O
+O O B-area E-area B-category E-category
+B-tvchannel I-tvchannel I-tvchannel E-tvchannel B-datetime_date E-datetime_date B-datetime_time I-datetime_time I-datetime_time I-datetime_time I-datetime_time E-datetime_time O O O B-name I-name I-name I-name I-name I-name E-name
+O O O O O O O O O
+O O O O B-位置 I-位置 E-位置 O S-灯种
+O B-name I-name E-name O
+O O O O O B-code I-code I-code I-code E-code B-name I-name I-name I-name I-name I-name I-name I-name I-name I-name E-name
+O O O O O B-name I-name E-name B-code I-code I-code I-code I-code I-code I-code I-code I-code I-code E-code
+O O O O O O O O O O O O O O O O O
+O S-name O B-querytype E-querytype O O O
+O O B-name I-name I-name I-name I-name I-name I-name E-name
+O O O O O O O B-city E-city O
+O O B-content I-content I-content I-content E-content
+B-name E-name O O O O
+B-region E-region B-attr E-attr O
+O O O B-keyword E-keyword
+B-datetime_date E-datetime_date B-datetime_time E-datetime_time B-city I-city E-city O B-subfocus E-subfocus O
+O O O B-film I-film I-film I-film E-film O O O O O O
+O O B-category E-category B-name I-name E-name
+O O O B-actor I-actor E-actor O B-name I-name I-name E-name
+B-endLoc_poi I-endLoc_poi I-endLoc_poi E-endLoc_poi O O O
+B-datetime_date E-datetime_date O O O O O S-number O O O
+O O O O O O B-song I-song I-song E-song O O O O
+O O O O O O O O O
+O O O O O
+B-startLoc_city E-startLoc_city O B-endLoc_city E-endLoc_city O O O O
+O B-dishName I-dishName E-dishName O O O O O O O
+B-name I-name E-name O O
+B-startDate_date E-startDate_date B-startLoc_city E-startLoc_city O B-endLoc_city E-endLoc_city O O O
+O O O B-name E-name
+O O O O O O O O O O O O O O
+B-dishName I-dishName I-dishName E-dishName O O O O O O O O O O O O O O O
+B-startDate_date E-startDate_date B-startLoc_city E-startLoc_city O B-endLoc_city E-endLoc_city O O O
+O O O O O O S-keyword O O O O O
+B-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date E-datetime_date O O O O O O O O O O O O
+O O O O O O O O
+O O O O O O O O O O O O O O O O O O O
+O O O B-datetime_date E-datetime_date O O O O O O
+O O O B-dishName I-dishName E-dishName
+O O B-tvchannel I-tvchannel I-tvchannel E-tvchannel O O O O O O
+O O O B-endLoc_poi I-endLoc_poi I-endLoc_poi E-endLoc_poi
+O O B-keyword E-keyword O B-category E-category O O
+O B-startLoc_city E-startLoc_city O B-endLoc_city E-endLoc_city O O O
+B-name I-name I-name I-name E-name O O O O O O O
+B-datetime_date E-datetime_date B-tvchannel I-tvchannel I-tvchannel E-tvchannel O O O
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel E-tvchannel B-datetime_date E-datetime_date B-datetime_time E-datetime_time O O O
+B-keyword I-keyword I-keyword E-keyword O
+O O O B-actor I-actor E-actor O B-category E-category
+B-category E-category O O O O O B-datetime_date E-datetime_date O O
+O O O O B-datetime_date E-datetime_date O O O O O O
+O O B-category E-category O O
+B-datetime_date I-datetime_date I-datetime_date E-datetime_date O O O O O O O O O
+O O O O O O O B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword I-keyword I-keyword E-keyword
+B-位置 I-位置 E-位置 O O O B-灯种 I-灯种 E-灯种 O O O O
+O O O O O O
+O O O O O O
+O O O O O B-category E-category O O O O
+O O O O B-word E-word S-character O O O O O O O O
+O O O B-endLoc_poi I-endLoc_poi E-endLoc_poi O O O
+O O O O O O O B-film I-film I-film I-film E-film O O O O O
+B-dishName I-dishName E-dishName O O O O
+O O S-srcUnit O S-srcNumber S-destUnit O
+O O O O B-city E-city O B-subfocus E-subfocus O O
+B-tvchannel I-tvchannel I-tvchannel E-tvchannel O O O O O
+B-company I-company E-company B-datetime_date E-datetime_date O O O O O
+O O O B-keyword I-keyword I-keyword E-keyword O O O O O O O O
+O O O B-song I-song I-song E-song O
+B-datetime_date E-datetime_date O O O O O
+B-author E-author O O O
+O O O B-song I-song I-song E-song
+O O O B-Src I-Src E-Src O B-Dest I-Dest E-Dest O O O
+O O O O B-film I-film I-film I-film E-film O O O O
+O O O O B-name E-name O O O B-content I-content I-content I-content E-content
+O O O O B-artist I-artist E-artist O O O
+O O O O O
+B-datetime_date I-datetime_date I-datetime_date E-datetime_date O O O O O O O O O O O O
+B-province E-province O O O O O
+B-位置 I-位置 E-位置 O O O O O O
+O O O O O O O O
+O O B-attr I-attr I-attr E-attr
+S-srcNumber B-srcUnit E-srcUnit O O O O O O O S-destUnit
+O O O
+O O B-content E-content
+O O O B-artist I-artist E-artist O B-category E-category
+B-city E-city O O B-province E-province O
+B-keyword E-keyword O O O O
+O O O O B-song I-song I-song I-song I-song I-song E-song O
+B-name I-name I-name E-name O O O O O O O
+B-startLoc_city E-startLoc_city O O B-endLoc_city E-endLoc_city O O O
+O O O O O O O B-name E-name O O O B-content I-content I-content I-content I-content I-content E-content
+O O O O O O B-popularity E-popularity O O O
+O O O O O
+O O B-author E-author O O O O O O
+B-province I-province E-province O O O O O O O O O
+O O O B-name E-name
+O O O B-city E-city O O O O O O O
+O O O O O O O O O B-name I-name I-name E-name
+O O O O B-startDate_date E-startDate_date B-startLoc_city E-startLoc_city O B-endLoc_city E-endLoc_city O O O
+O O O O O B-name I-name E-name B-code I-code I-code I-code I-code E-code
+O O O O B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword I-keyword E-keyword O O O O
+O O O O O B-name I-name E-name B-code I-code I-code I-code I-code I-code I-code I-code I-code E-code O
+B-content I-content E-content O B-target E-target O O O
+O O O O B-author E-author O O O
+S-name O O O O O O O B-querytype E-querytype
+B-name I-name I-name E-name B-episode I-episode E-episode
+B-city E-city O O O O O O O O O O
+O O B-Src E-Src O B-Dest E-Dest O O O O
+B-country E-country O B-keyword I-keyword I-keyword I-keyword I-keyword E-keyword O O
+B-endLoc_poi I-endLoc_poi I-endLoc_poi E-endLoc_poi O O O
+B-name I-name I-name E-name O O
+B-datetime_date I-datetime_date I-datetime_date E-datetime_date O O O O O O O
+B-timeDescr E-timeDescr O O O B-scoreDescr E-scoreDescr O
+B-datetime_time E-datetime_time O O O O O B-category I-category E-category O
+O O O O O B-startLoc_city E-startLoc_city O B-endLoc_city E-endLoc_city O O O
+B-film I-film I-film I-film E-film O O O O O O O
+O O O O O B-datetime_date E-datetime_date B-category I-category I-category I-category E-category O O O O O
+B-startLoc_area E-startLoc_area O B-endLoc_city E-endLoc_city O O O O
+S-name O O O O B-querytype E-querytype
+O O O O O O O
+O O O O B-keyword I-keyword E-keyword O
+B-startDate_date E-startDate_date O B-endLoc_city E-endLoc_city O O O
+O O O O O O O
+O O O O B-name E-name
+O O O B-startLoc_city E-startLoc_city O B-endLoc_city E-endLoc_city O O O O O O O
+O O O O O O O O O O O B-duration I-duration I-duration I-duration E-duration
+B-city E-city O O B-province E-province O O O O
+B-city E-city O B-province E-province O O O O
+O O O S-character O O O O O O O
+O O O O B-city E-city O O O O O
+B-datetime_date E-datetime_date B-tvchannel I-tvchannel I-tvchannel E-tvchannel O O O O
+O O O O B-name I-name I-name E-name O O O
+B-ingredient I-ingredient E-ingredient O O O O
+O O O O B-keyword I-keyword I-keyword E-keyword O O O O
+B-dishName I-dishName I-dishName E-dishName O O O
+O O O O O O O O O
+O O O O O B-datetime_date E-datetime_date B-city E-city O O O
+O O O O S-character O O O O O O
+B-province E-province O O O O O O O B-city E-city O
+O O O O S-orderIndex O O O
+B-keyword I-keyword I-keyword I-keyword I-keyword E-keyword O O O O O O O O O O O O
+B-tvchannel I-tvchannel I-tvchannel E-tvchannel B-datetime_date I-datetime_date E-datetime_date O O O B-name I-name I-name E-name O
+B-dishName I-dishName E-dishName O
+O O O B-category E-category O O
+O B-endLoc_city E-endLoc_city B-endLoc_poi I-endLoc_poi E-endLoc_poi
+B-ingredient E-ingredient O O O
+O O O O B-album I-album E-album S-chapter O O
+O O O O O B-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date E-datetime_date O O O B-name I-name I-name E-name O O O O
+B-attr E-attr O B-attrValue E-attrValue O
+O O O O S-dynasty O O O O O
+O O O B-datetime_date I-datetime_date I-datetime_date E-datetime_date O O O O O O O O
+O O B-name I-name I-name E-name O O O
+B-province E-province O O O O O O
+O B-name I-name E-name O O O
+B-name I-name E-name
+O O B-位置 E-位置 O S-灯种
+O O B-startLoc_city E-startLoc_city O B-endLoc_city E-endLoc_city O O O O
+B-keyword I-keyword I-keyword I-keyword E-keyword O O O O O O
+O O O B-startDate_date E-startDate_date B-startLoc_city E-startLoc_city O O B-endLoc_city E-endLoc_city O O O O O O O O O O O O O
+O O O O O O S-name O O O
+B-位置 I-位置 E-位置 O O O O O
+B-datetime_time E-datetime_time O O O O O O B-category I-category E-category
+O O B-city E-city O O
+O O O O B-name E-name
+O O B-film I-film I-film I-film E-film O O O O O
+O O O O O B-name I-name E-name O O B-code I-code I-code I-code I-code I-code E-code
+O O O O O O B-word E-word S-character O O O O O O
+B-keyword I-keyword E-keyword O O O O
+B-room E-room O O O O B-attrValue E-attrValue
+O O O B-album I-album I-album I-album E-album
+O O O O O O O O O O O O O O O O
+O O O O O B-category I-category I-category E-category O
+O B-dishName I-dishName E-dishName O
+B-dishName I-dishName I-dishName E-dishName O O O O
+B-startLoc_city E-startLoc_city O B-endLoc_city E-endLoc_city O O O O
+B-attrValue E-attrValue O O O B-attr E-attr O O
+O O O O O O O B-name E-name O O B-code I-code I-code I-code I-code I-code I-code I-code I-code I-code E-code
+B-datetime_date E-datetime_date O O O O O
+O O O O B-song E-song O O O O
+B-category I-category I-category E-category O O B-name I-name I-name I-name E-name
+O O O O B-province E-province O B-city E-city O O O O O
+B-name I-name I-name I-name E-name
+O O O B-song I-song I-song E-song O O O O
+B-city E-city B-datetime_date E-datetime_date O B-subfocus I-subfocus E-subfocus
+O O O O O O O B-datetime_date E-datetime_date O O O O O O
+B-city E-city O O O O O O O O
+B-name I-name E-name
+O B-endLoc_poi I-endLoc_poi I-endLoc_poi E-endLoc_poi
+O O O S-srcNumber S-srcUnit O O O B-destUnit E-destUnit
+O O O O O B-startLoc_city E-startLoc_city O B-endLoc_city E-endLoc_city O O O O O
+B-keyword I-keyword E-keyword O O O O
+O O B-日期 I-日期 E-日期 O O O
+O O O O O B-name I-name I-name I-name E-name
+B-film I-film E-film O O O O O
+B-province I-province E-province O O O O O O
+O O O O O O
+O O O O B-word E-word S-character O
+O O B-Src E-Src O B-Dest E-Dest O O O O O
+O O O O O O O O
+O O O O S-name O
+B-name I-name I-name E-name O O O O O O O
+O O O O B-city E-city O O B-province I-province E-province O O
+B-dishName E-dishName O O O O O
+B-category E-category O O
